@@ -5,7 +5,7 @@
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
-**Updated version of this application can be found at:** https://github.com/kishan0725/The-Movie-Cinema
+**Updated version of this application can be found at:** https://github.com/pratik412/Movie-Recommendation-System-with-Sentiment-Analysis
 
 Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
 
